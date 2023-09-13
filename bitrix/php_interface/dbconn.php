@@ -21,3 +21,5 @@ define("BX_DISABLE_INDEX_PAGE", true);
 
 define("BX_UTF", true);
 mb_internal_encoding("UTF-8");
+
+define("LOG_FILENAME", $_SERVER["DOCUMENT_ROOT"]."/log.txt");
