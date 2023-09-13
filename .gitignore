@@ -1,0 +1,4 @@
+bitrix/cache/
+bitrix/managed_cache/
+bitrix/html_pages/
+*.zip

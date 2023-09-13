@@ -1,0 +1,22 @@
+2023-09-08 14:06:33 - Host: bitrix - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected '}', expecting end of file (0)
+E:\OpenServer\domains\bitrix\bitrix\templates\furniture_blue\header.php:4
+#0: require
+	E:\OpenServer\domains\bitrix\bitrix\modules\main\include\prolog.php:11
+#1: require_once(string)
+	E:\OpenServer\domains\bitrix\bitrix\header.php:1
+#2: require(string)
+	E:\OpenServer\domains\bitrix\index.php:2
+----------
+
+2023-09-08 14:06:36 - Host: bitrix - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected '}', expecting end of file (0)
+E:\OpenServer\domains\bitrix\bitrix\templates\furniture_blue\header.php:4
+#0: require
+	E:\OpenServer\domains\bitrix\bitrix\modules\main\include\prolog.php:11
+#1: require_once(string)
+	E:\OpenServer\domains\bitrix\bitrix\header.php:1
+#2: require(string)
+	E:\OpenServer\domains\bitrix\index.php:2
+----------
+
